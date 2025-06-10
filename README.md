@@ -64,4 +64,4 @@ Play again? (yes/no): yes
 
 ## 🧑‍💻 Author
 
-Created by [Your Name] as a beginner Python project.
+Created by [Evelyn] as a beginner Python project.
